@@ -26,3 +26,4 @@ FERRAMENTAS UTILIZADAS:
 - Docker;
 - Gighub;
 - Postgres;
+- Banco H2;
