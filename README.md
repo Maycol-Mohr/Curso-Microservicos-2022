@@ -1,25 +1,25 @@
 # Curso-Microservicos-2022 (Professor Nelio Alves - Escola Devsuperior.com.br)
 
-Conteúdos durante o curso:
+# Conteúdos durante o curso:
 
-Feign para requisições de API entre microsserviços
+* Feign para requisições de API entre microsserviços
 
-Ribbon para balanceamento de carga
+* Ribbon para balanceamento de carga
 
-Servidor Eureka para registro dos microsserviços
+* Servidor Eureka para registro dos microsserviços
 
-API Gateway Zuul para roteamento e autorização
+* API Gateway Zuul para roteamento e autorização
 
-Hystrix para tolerância a falhas
+* Hystrix para tolerância a falhas
 
-OAuth e JWT para autenticação e autorização
+* OAuth e JWT para autenticação e autorização
 
-Servidor de configuração centralizada com dados em repositório Git
+* Servidor de configuração centralizada com dados em repositório Git
 
-Geração de containers Docker para os microsserviços e bases de dados
+* Geração de containers Docker para os microsserviços e bases de dados
 
 
-FERRAMENTAS UTILIZADAS:
+# FERRAMENTAS UTILIZADAS:
 
 - Java com Spring Boot e Spring Cloud;
 - Postman;
